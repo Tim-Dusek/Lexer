@@ -1,0 +1,9 @@
+program example(input,output);
+var x,y:integer;
+var a, b, c:char;
+begin
+writeln(Please select a key and press it);
+read(x);
+writeln(The piece you decided to select was);
+write(x);
+end.

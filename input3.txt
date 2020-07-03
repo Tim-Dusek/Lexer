@@ -1,0 +1,9 @@
+program example(input,output);
+var x,y:integer;
+var a, b, c:char;
+begin
+read(x);
+read(y);
+x = x+y;
+write(x);
+end.

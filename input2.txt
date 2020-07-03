@@ -1,0 +1,7 @@
+program example(input,output);
+var x,y:integer;
+var a, b, c:char;
+x = 3+7;
+y = 4+2;
+write(x);
+end.
